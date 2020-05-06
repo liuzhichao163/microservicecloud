@@ -17,6 +17,7 @@ import com.liuzhichao.service.IDeptService;
 @RequestMapping("/dept")
 public class DeptController {
 	
+	//在本地修改
 	@Autowired
 	IDeptService deptService;
 	
