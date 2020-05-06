@@ -18,6 +18,7 @@ import com.liuzhichao.service.IDeptService;
 public class DeptController {
 	
 	//在本地修改（本地）
+	//在本地修改（githup）
 	@Autowired
 	IDeptService deptService;
 	
